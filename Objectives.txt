@@ -1,0 +1,1 @@
+This file is created to do a demo of how to create a new branch with the same name of the remote branch in the local repo.
